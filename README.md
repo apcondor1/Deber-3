@@ -26,6 +26,8 @@ Capitulo 5
 
 Capitulo 6
 
+![Untitled Workspace (10)](https://user-images.githubusercontent.com/117843879/203416543-6105be4e-e637-4060-88ce-0a7113ecf23c.png)
+
 
  Resistores en serie
 1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
