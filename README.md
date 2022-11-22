@@ -18,6 +18,10 @@ Objetivo especifico
 
 * Analizar el tema de energia y potencias ya que nos nutrira de nuevos prefijos que se usan en el area de electrica y posteriormente nos apoyara en nuestro camino del entendimiento de electronica fundamental. 
 
+Marco teorico
+
+![Untitled Workspace](https://user-images.githubusercontent.com/117843879/203409943-9b1f146a-36a8-479f-90fe-a77061379efe.png)
+
 
 Capitulo 5
 
