@@ -20,10 +20,12 @@ Objetivo especifico
 
 Marco teorico
 
-![Untitled Workspace](https://user-images.githubusercontent.com/117843879/203409943-9b1f146a-36a8-479f-90fe-a77061379efe.png)
-
-
 Capitulo 5
+
+![Untitled Workspace (9)](https://user-images.githubusercontent.com/117843879/203413589-f49f1a10-2fdd-4647-b0b4-276482faa3d3.png)
+
+Capitulo 6
+
 
  Resistores en serie
 1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
