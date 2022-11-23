@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/117843879/201979563-c566b80b-dc15-4bf2-80c2-1e818465a9f7.png)
 
 
-Tarea 2-Capitulo3-4
+Tarea 2-Capitulo 5-6
 
 Nombre: Ariel Patricio Condor Vásconez
 
@@ -284,5 +284,291 @@ De ser así, identifíquelo
 Existe un corte en la pata 4 y en la parte superior R11
 
 
+CAPITULO 6
 
+RESISTORES EN PARALELO
+
+1Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.
+
+![image](https://user-images.githubusercontent.com/117843879/203663701-e39a7bc9-2d6e-4f1d-9a34-f9ccaa3e5693.png)
+
+3Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
+
+![image](https://user-images.githubusercontent.com/117843879/203663738-086e6d57-7315-4e54-b8ca-e7ae0445c8b6.png)
+
+Respuesta:
+
+R1, R2, R5, R9 Y R12 estan en paralero.
+
+R4, R6, R7 y R8 estan en paralelo.
+
+R3 y R11 estan en paralelo.
+
+VOLTAJE EN UN CIRCUITO PARALELO
+
+5 El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+
+![image](https://user-images.githubusercontent.com/117843879/203663799-b1058b0b-e80f-4457-887a-bf9c8087730f.png)
+
+R=100V
+
+7 ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/117843879/203663846-8ec48f6c-85cd-45f1-b835-1a2b292d8b73.png)
+
+
+P.A
+
+V1=15V
+
+V2=0V
+
+V3=0V
+
+V4=15V
+
+P.B
+
+V1=15V
+
+V2=0V
+
+V3=15V
+
+V4=0V
+
+P.C
+
+V1=15V
+
+V2=15V
+
+V3=0V
+
+V4=0V
+
+
+LEY DE LAS CORRIENTES DE KIRCHHOFF
+
+9 Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA, 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+
+R
+
+250+300+800=1350 mA
+
+1350/1000
+
+=1.35 A
+
+11 En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4
+
+R:
+
+R2=22 ohm
+
+R3=100 ohm
+
+R4=33 ohm
+
+13 La resistencia total de un circuito en paralelo es de 25 ohmios. ¿Cuál es la corriente a través de un resistor de 220 ohmios que forma parte de este circuito si la corriente total es de 100 mA?
+
+V=I*R
+
+V=100*25
+
+V=2500
+
+I=V/R
+
+I=2500/220
+
+I=11.36mA
+
+RESISTENCIA TOTAL EN PARALELO
+
+15 Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
+
+![image](https://user-images.githubusercontent.com/117843879/203664154-2754367a-291a-4d6e-ac0d-ce482fb4072f.png)
+
+a)
+![image](https://user-images.githubusercontent.com/117843879/203664277-087c4693-3779-4e03-831c-b23ea0a0d6cf.png)
+
+b) 25.55 ohm
+
+c)818.85 ohm
+
+d) 997.88 ohm
+
+17 ¿Cuál es la resistencia total de doce resistores de 6.8 kiloohmios dispuestos en paralelo?
+
+R= 1/(1/68*12) = 17/30 ohm
+
+19 Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
+
+24.6ohm
+
+21 ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
+
+a) 1/1/50 = 510k ohm
+
+b)1/(1/540 + 1/470 ) = 244.59 k ohm
+
+c) 1/(1/540 + 1/470 ) = 244.59 k ohm
+
+d) )1/(1/540 + 1/470 + 1/910) = 192.78 k ohm
+
+23 Tres resistores de 33 ohmios están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
+
+I1 = V/R = 110/33 = 3.33A
+
+I2=V/R=110/33 = 3.33A
+
+I3= V/R =110/33 = 3.33A
+
+IT = 9.99A
+
+25 Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kiloohmios, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
+
+I=V/R = 110/2.2 = 50A
+
+Si se funde ambos quedan en paralelo
+
+27 ¿A qué valor mínimo se puede ajustar el reóstato de 100 ohmios mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?
+
+53.7 ohm
+
+29 Encuentre los valores de las cantidades no especificadas en la figura 6-77.
+
+![image](https://user-images.githubusercontent.com/117843879/203665057-3544c155-5460-4571-989c-431f986abe5b.png)
+
+I2= V/R = 100/600 = 0.167 A
+
+I3= V/R = 100/1.2= 83.3mA
+
+IT= 300mA
+
+R1 =100/50 = 2Kohm
+
+r2= 600 ohm
+
+FUENTES DE CORRIENTE EN PARALELO
+
+31 Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.
+
+![image](https://user-images.githubusercontent.com/117843879/203665203-f955a826-2c21-49be-9ce6-d253723cc3ed.png)
+
+
+P A: 2.25mA
+
+P B: 4.75mA
+
+P C: 7mA
+
+33 Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
+
+![image](https://user-images.githubusercontent.com/117843879/203665265-64dbc071-23bf-4eda-b6fa-84ace06a95fd.png)
+
+
+a)I1=6.88uA 
+
+I2=3.12uA
+
+b)I1=5.25mA
+
+I2=2.39mA
+
+I3=1.59mA 
+
+I4=772uA
+
+35 Determine todos los valores de resistor en la figura 6-83. RT= 773 ohmios.
+
+R1=3.3kohm
+
+R2=1.8 kohm
+
+R3=5.6 kohm
+
+R4=3.9 kohm
+
+37 En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50mV, 10 kohmios de escala completa entre la derivación para realizar la medición. 
+
+(a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una aplicación de medición de 50 A?
+
+Respuesta:
+
+1 miliohmios
+
+(b) ¿Cuánta corriente circula por el medidor?
+
+Respuesta:
+
+5 uA
+
+POTENCIA EN CIRCUITOS EN PARALELO
+
+ 39 Determine la potencia total en cada uno de los circuitos de la figura 6-81.
+ 
+ ![image](https://user-images.githubusercontent.com/117843879/203665366-deb90554-52c1-402f-899d-1d8793b9ff71.png)
+
+R
+
+a)68.8uW
+
+b)52.5mW
+
+41 Encuentre los valores de las cantidades no especificadas en la figura 6-84.
+
+![image](https://user-images.githubusercontent.com/117843879/203665412-cfb03645-3c3a-4e15-a3cd-03cf05424841.png)
+
+
+P1=1.25W
+
+I2=75mA
+
+I1=125mA
+
+Vs=10V
+
+R1=80ohmios
+
+R2=133 ohmios
+
+LOCALIZACION DE FALLAS
+
+43 Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
+Respuesta:
+
+682 mA
+
+3.41 A
+
+45 ¿Qué está mal con el circuito de la figura 6-86?
+
+![image](https://user-images.githubusercontent.com/117843879/203665443-6267c414-e2dc-430b-8f66-f510ba22096d.png)
+
+La resistencia de 8.2 kohm esta abierta.
+
+49  Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+
+![image](https://user-images.githubusercontent.com/117843879/203665496-28979a40-de06-41e6-84f4-33823dd76115.png)
+
+
+Respuesta:
+
+a) 1 y 2
+
+R1-2 = (R1||R2||R3||R4||R11||R12) + (R5||R6||R7||R8||R9||R10)=940 ohmios
+
+b) 2 y 3
+
+R2-3 = R5||R6||R7||R8||R9||R10 = 518 ohmios
+
+c) 2 y 4
+
+R2-4 = R5||R6||R7||R8||R9||R10 = 518 ohmios
+
+d) 1 y 4
+
+R1-4 = R1||R2||R3||R4||R11||R12 = 422 ohmios
 
