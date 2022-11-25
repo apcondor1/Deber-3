@@ -10,14 +10,12 @@ NRC: 10063-202251
 
 Objetivo general
 
-Comprender las principales ecuaciones que se usa en el area de electronica , ya que es un requisito fundamental para posteriores debers-laboratorios
-
+Estudiar el como se comporatan los dos tipos de circuitos, para que en posteriores practicas podamos conocer el porque de las cosas.
 Objetivo especifico
 
-* Estudiar la ley de ohm porque nos ayudar a entender el como se comporta las magnitudes de un circuito electrico
+* Analizar circuitos las 3 magnitudes principales que circulan por un circuito en serie, realizar ejercicios para entender de mejor manera.
 
-* Analizar el tema de energia y potencias ya que nos nutrira de nuevos prefijos que se usan en el area de electrica y posteriormente nos apoyara en nuestro camino del entendimiento de electronica fundamental. 
-
+* Obtener la capacidad analitica para poder llevar a cabo la resolucion de ejercicios que empleen circuitos en serie-paralelo (mixtos).
 Marco teorico
 
 Capitulo 5
@@ -571,4 +569,18 @@ R2-4 = R5||R6||R7||R8||R9||R10 = 518 ohmios
 d) 1 y 4
 
 R1-4 = R1||R2||R3||R4||R11||R12 = 422 ohmios
+
+Video
+
+https://youtu.be/Y5Z9VvCYOOo
+
+Concluisones y Bibliografia
+
+* A lo largo de todo los dos capitulos se comprendio que existendiferencias marcadas entre las diferentes configuraciones de los circuitos
+
+* Como se evidencio en el trabajo de resolver ejercicios existen diferentes formulas y definiciones para comprender el tema
+
+* Como resultado del analisis de los capitulos propuestos , hubo una existosa resolcuion en cada ejercicio presentado, gracias se tiene la firmeza de resolver mas ejerciccios con un grado de dificultad mayor
+
+* Floyd, T. L. F. (2006). Principios de circuitos electronicos (Octava edicion). Pearson education.
 
